@@ -11,6 +11,8 @@ public class loopexample {
              name="Last bottles";
 
         }
+
+
             System.out.println(beerNum + " " + name +"of beer on the wall" );
 
             System.out.println(beerNum + " " + name +"of beer" );
